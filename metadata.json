@@ -1,0 +1,6 @@
+{
+  "name": "씨마스고등학교 급식",
+  "description": "씨마스고등학교 학생 및 교직원을 위한 한국 표준 시간대 기준 동적 급식 식단표, 실시간 영양성분 자율 계산기 및 알레르기 유발 정보 경고 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
